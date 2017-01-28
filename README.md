@@ -2,9 +2,7 @@
 This script can download on your Linux computer the games of the '90 years. So.. let's download this and start!
 
 # How to use?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yW0SYRKBWn8" frameborder="0" allowfullscreen></iframe>
-
-Or you can go on <a href="http://bit.ly/2kEoy02" target="_blank">http://bit.ly/2kEoy02</a> for the article on my blog (<a href="https://infornblog.eu/" target="_blank">https://infornblog.eu/</a>)
+Look at this video by <a href="https://www.youtube.com/watch?v=yW0SYRKBWn8" target="_blank">clicking here</a> or you can go on <a href="http://bit.ly/2kEoy02" target="_blank">http://bit.ly/2kEoy02</a> for the article on my blog (<a href="https://infornblog.eu/" target="_blank">https://infornblog.eu/</a>)
 
 # Games in this script
 * PacMan
