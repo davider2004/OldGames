@@ -37,7 +37,7 @@ sudo apt-get update
 sudo apt-get remove pacman smc nsnake figlet -y --force-yes
 sudo chmod -R -x *
 
-echo
+echo 
 
 clear
 figlet "InfornBlog"
