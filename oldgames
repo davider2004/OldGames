@@ -1,0 +1,10 @@
+clear
+figlet "OldGames"
+echo "Created by RamondettiDavide.com"
+echo "==============================================="
+echo
+echo "Commands: "
+echo "* nsnake -> Snake"
+echo "* pacman -> PacMAN"
+echo "* smc -> SuperMario"
+echo
